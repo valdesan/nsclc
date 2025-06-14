@@ -1,18 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>NSCLC Algorithm</title>
-    <style>
-      html, body {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-        overflow: hidden;
-      }
-    </style>
-  </head>
-  <body>
-    <object data="NSCLCalgorithm.svg" type="image/svg+xml" width="100%" height="100%"></object>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <title>NSCLC Algorithm</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #fff;
+    }
+    #svg-wrapper {
+      width: 100%;
+      height: 100%;
+    }
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="svg-wrapper">
+    <!-- Replace below with the full contents of your SVG file -->
+    <!-- Or load the .svg externally if embedding doesn't preserve links -->
+  </div>
+
+  <script>
+    // Load the SVG inline to preserve links
+    fetch('NSCLCalgorithm.svg')
+      .then(res => res.text())
+      .then(svg => {
+        document.getElementById('svg-wrapper').innerHTML = svg;
+      });
+  </script>
+</body>
 </html>
