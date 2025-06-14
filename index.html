@@ -7,34 +7,20 @@
     html, body {
       margin: 0;
       padding: 0;
-      width: 100%;
       height: 100%;
+      width: 100%;
       overflow: hidden;
-      background-color: #fff;
     }
-    #svg-wrapper {
+    object {
       width: 100%;
       height: 100%;
-    }
-    svg {
-      width: 100%;
-      height: 100%;
+      border: none;
     }
   </style>
 </head>
 <body>
-  <div id="svg-wrapper">
-    <!-- Replace below with the full contents of your SVG file -->
-    <!-- Or load the .svg externally if embedding doesn't preserve links -->
-  </div>
-
-  <script>
-    // Load the SVG inline to preserve links
-    fetch('NSCLCalgorithm.svg')
-      .then(res => res.text())
-      .then(svg => {
-        document.getElementById('svg-wrapper').innerHTML = svg;
-      });
-  </script>
+  <object data="NSCLCalgorithm.svg" type="image/svg+xml">
+    Your browser does not support embedded SVGs.
+  </object>
 </body>
 </html>
