@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-223.83354 128.55432 2242.9797 2939" width="2242.9797" height="2939">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="-223.33354" y="1170.6999" width="585.97975" height="550.3544" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-218.33354 1397.7571)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="40" fill="black" x="161.70987" y="38" xml:space="preserve">NSCLC with a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="40" fill="black" x="16.109868" y="86.12" xml:space="preserve">Actionable Genomic Alteration</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="1267.0962" y="669.8162" width="297.55" height="116.18378" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.0962 672.6201)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="37.399994" y="22" xml:space="preserve">PACC mutations —&gt; </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="106.078" y="49.644" xml:space="preserve">afatinib</tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="11.628494" y="77.28799" xml:space="preserve">Non-PACC mutations —&gt; </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="128.871" y="104.93199" xml:space="preserve">osi</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 667.3317 437.75975 L 667.4669 436.0044 L 667.3317 434.24904 L 667.1965 436.0044 Z" fill="white"/>
+        <path d="M 667.3317 437.75975 L 667.4669 436.0044 L 667.3317 434.24904 L 667.1965 436.0044 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 701.2927 345.14855 L 827.7556 461.00207 L 701.2927 576.8556 L 574.8298 461.00207 Z" fill="white"/>
+        <path d="M 701.2927 345.14855 L 827.7556 461.00207 L 701.2927 576.8556 L 574.8298 461.00207 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(613.9748 444.863)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="59.61367" y="22" xml:space="preserve">EGFR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <a xl:href="https://nova-mat-12f.notion.site/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=25#08018b7c1e094bf3b9df0c76b8601fb2">
+          <rect x="892.6462" y="215.08462" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(897.6462 250.76262)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="35.5665" y="22" xml:space="preserve">L858R or Deletion 19</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_13">
+        <a xl:href="https://nova-mat-12f.notion.site/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=25#678beefb3688410e845648224d78e618">
+          <rect x="892.6462" y="481.77856" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(897.6462 517.45656)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="102.0365" y="22" xml:space="preserve">Exon 20</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_14">
+        <rect x="892.6462" y="748.4725" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 784.1505)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="29.7935" y="22" xml:space="preserve">Uncommon mutations</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <a xl:href="https://www.notion.so/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=4#ef525960e80e4707830e97afe6c7fcb7">
+          <rect x="1266.6462" y="129.05432" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1271.6462 137.08832)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="85.2005" y="22" xml:space="preserve">Osimertinib</tspan>
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="30.357" y="49.644" xml:space="preserve">Osi+ platinum doublet</tspan>
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="1.285" y="77.28799" xml:space="preserve">Amivantamab and lazertinib</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_16">
+        <a xl:href="https://www.notion.so/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=4#678beefb3688410e845648224d78e618">
+          <rect x="1266.9462" y="399.43527" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1271.9462 421.29127)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="15.6485" y="22" xml:space="preserve">Amivantamab + platinum </tspan>
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="105.015" y="49.644" xml:space="preserve">doublet</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_17">
+        <rect x="1266.7962" y="264.2448" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1271.7962 286.1008)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="19.1215" y="22" xml:space="preserve">BMS Clinical trial ADC + </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="120.7815" y="49.644" xml:space="preserve">Osic</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="1267.0962" y="534.62574" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.0962 570.30375)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="246.13754" y1="1170.6999" x2="649.1453" y2="542.3126" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_25">
+        <line x1="760.932" y1="399.7845" x2="885.7379" y2="271.6758" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <line x1="791.5658" y1="494.1558" x2="883.3531" y2="527.8656" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="744.5686" y1="537.21023" x2="887.7576" y2="789.3637" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_29">
+        <line x1="1190.6462" y1="264.58462" x2="1260.0917" y2="185.97382" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="1190.6462" y1="264.58462" x2="1258.4788" y2="308.37533" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="1190.6462" y1="531.27856" x2="1260.2174" y2="456.197" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="1190.6462" y1="531.27856" x2="1258.9525" y2="578.4963" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="1190.6462" y1="797.9725" x2="1259.7977" y2="734.597" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_34">
+        <a xl:href="https://nova-mat-12f.notion.site/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=25#354ebae0fd72457a84198c51e08e688a">
+          <rect x="892.6462" y="1015.1664" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(897.6462 1050.8444)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="128.0265" y="22" xml:space="preserve">Alk</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_35">
+        <a xl:href="https://www.notion.so/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=4#354ebae0fd72457a84198c51e08e688a">
+          <rect x="1267.3962" y="940.1972" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1272.3962 948.2312)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="40.707" y="22" xml:space="preserve">Lorlatinib (preferred)</tspan>
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="86.0745" y="49.644" xml:space="preserve">Alectinib or</tspan>
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="95.0215" y="77.28799" xml:space="preserve">Brigatinib</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_36">
+        <rect x="1267.5462" y="1075.3876" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.5462 1111.0657)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="362.6462" y1="1310.1636" x2="883.6631" y2="1068.8274" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_38">
+        <line x1="1190.6462" y1="1064.6664" x2="1260.3142" y2="996.6149" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_39">
+        <line x1="1190.6462" y1="1064.6664" x2="1259.7518" y2="1118.7838" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_46">
+        <a xl:href="https://nova-mat-12f.notion.site/Treatment-of-patients-with-NSCLC-and-driver-mutations-da953499ec994cbfb3260ea052b2fd9f?pvs=25#abd6266f99764cac966544d190da37d5">
+          <rect x="884.6639" y="1281.8604" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(889.6639 1317.5384)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="80.5315" y="22" xml:space="preserve">KRAS G12C</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_45">
+        <rect x="1269.6462" y="1210.5781" width="292" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1274.6462 1232.4341)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="2.9885" y="22" xml:space="preserve">Follow non-driver mutation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="89.0315" y="49.644" xml:space="preserve">guidelines</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <rect x="1267.6962" y="1345.7686" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.6962 1381.4466)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_43">
+        <line x1="1182.6639" y1="1331.3604" x2="1261.989" y2="1266.3532" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_42">
+        <line x1="1182.6639" y1="1331.3604" x2="1259.7822" y2="1389.3206" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <rect x="892.6462" y="1548.5543" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 1584.2323)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="117.3775" y="22" xml:space="preserve">Ros1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <rect x="1267.8462" y="1480.959" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.8462 1488.815)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="26.4355" y="22" xml:space="preserve">Taletrectinib (preferred)</tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="89.0415" y="49.644" xml:space="preserve">Entrectinib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <rect x="1267.9962" y="1616.1496" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1272.9962 1651.8276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_48">
+        <line x1="1190.6462" y1="1598.0543" x2="1260.3979" y2="1536.9807" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_47">
+        <line x1="1190.6462" y1="1598.0543" x2="1260.5416" y2="1659.135" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_52">
+        <rect x="1720.6462" y="1075.3876" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1725.6462 1111.0657)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="25.596" y="22" xml:space="preserve">Adagrasib or Sotorasib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <rect x="1720.6462" y="1247.4483" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1725.6462 1283.1263)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_54">
+        <line x1="1561.6462" y1="1260.0781" x2="1713.104" y2="1131.3005" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_55">
+        <line x1="1561.6462" y1="1260.0781" x2="1711.002" y2="1294.7119" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_60">
+        <rect x="892.6462" y="1815.2483" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 1850.9263)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="77.76" y="22" xml:space="preserve">BRAF V600E</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <rect x="1268.1462" y="1734.1562" width="298" height="127.84375" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.1462 1742.6121)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="30.242" y="22" xml:space="preserve">Encometinib/Bimetinb </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="27.9305" y="49.644" xml:space="preserve">(preferred) Debrafanib/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="90.525" y="77.28799" xml:space="preserve">Trametinib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <rect x="1268.2962" y="1886.5305" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.2962 1922.2085)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_57">
+        <line x1="1190.6462" y1="1864.7483" x2="1260.6411" y2="1804.5344" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_56">
+        <line x1="1190.6462" y1="1864.7483" x2="1261.0032" y2="1929.3356" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_65">
+        <rect x="892.6462" y="2081.9422" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 2117.6202)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="122.495" y="22" xml:space="preserve">RET</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <rect x="1268.4462" y="2021.721" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.4462 2057.399)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="2.5845" y="22" xml:space="preserve">Salpercatinib or Praseltanib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <rect x="1268.5962" y="2156.9115" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.5962 2192.5895)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_62">
+        <line x1="1190.6462" y1="2131.4422" x2="1260.6175" y2="2077.2808" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_61">
+        <line x1="1190.6462" y1="2131.4422" x2="1261.4608" y2="2199.5489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_70">
+        <rect x="892.6462" y="2348.636" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 2384.314)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="76.0465" y="22" xml:space="preserve">MET exon 14</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <rect x="1268.7462" y="2292.102" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.7462 2327.78)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="21.088" y="22" xml:space="preserve">Capmatinib or Tepotinib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <rect x="1268.8962" y="2427.2924" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1273.8962 2462.9704)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_67">
+        <line x1="1190.6462" y1="2398.136" x2="1260.7268" y2="2347.407" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_66">
+        <line x1="1190.6462" y1="2398.136" x2="1261.914" y2="2469.774" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_88">
+        <rect x="892.6462" y="2615.33" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 2651.008)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="72.424" y="22" xml:space="preserve">HER mutation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87">
+        <rect x="1269.0462" y="2541" width="298" height="120.48289" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1274.0462 2545.9534)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="43.467" y="22" xml:space="preserve">Chemotherapy with </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="61.568" y="49.644" xml:space="preserve">Carboplatin and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="53.886" y="77.28799" xml:space="preserve">pemetrexed (omit </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="60.694" y="104.93199" xml:space="preserve">immunotherapy)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_86">
+        <rect x="1269.1962" y="2697.6734" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1274.1962 2733.3514)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_85">
+        <line x1="1190.6462" y1="2664.83" x2="1261.3573" y2="2607.4777" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_84">
+        <line x1="1190.6462" y1="2664.83" x2="1262.3628" y2="2740.01" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_93">
+        <rect x="892.6462" y="2882.024" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(897.6462 2917.702)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="113.548" y="22" xml:space="preserve">NTRK</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <rect x="1269.3462" y="2832.864" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1274.3462 2840.898)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="76.472" y="22" xml:space="preserve">Latrotectinib. </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="55.611" y="49.644" xml:space="preserve">Reprotectinisb or </tspan>
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="89.8925" y="77.28799" xml:space="preserve">entrectinib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <rect x="1269.4962" y="2968.0543" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1274.4962 3003.7323)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_90">
+        <line x1="1190.6462" y1="2931.524" x2="1260.9497" y2="2887.6087" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_89">
+        <line x1="1190.6462" y1="2931.524" x2="1262.807" y2="3010.256" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_94">
+        <line x1="362.6462" y1="1404.7091" x2="874.8602" y2="1332.7379" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_99">
+        <line x1="362.6462" y1="1500.0532" x2="882.9112" y2="1596.2542" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_100">
+        <line x1="362.6462" y1="1594.998" x2="883.8232" y2="1860.2577" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_101">
+        <line x1="362.6462" y1="1689.9428" x2="885.0396" y2="2125.1058" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_102">
+        <line x1="307.47824" y1="1721.0543" x2="886.1727" y2="2390.646" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_103">
+        <line x1="255.44534" y1="1721.0543" x2="887.1065" y2="2656.625" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Line_104">
+        <line x1="222.09367" y1="1721.0543" x2="887.8489" y2="2922.864" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+      <g id="Graphic_106">
+        <rect x="1263.6462" y="805.0067" width="298" height="99" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1268.6462 840.6847)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="23" fill="black" x="84.8095" y="22" xml:space="preserve">Clinical trial</tspan>
+        </text>
+      </g>
+      <g id="Line_108">
+        <line x1="1190.6462" y1="797.9725" x2="1255.819" y2="848.445" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
